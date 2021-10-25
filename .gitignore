@@ -1,0 +1,12 @@
+*.some
+*.m4d
+*.m4
+m4ddata
+cache/
+test.pdf
+test-md.md
+test.aux
+test.log
+header.tex
+frontmatter
+F2-md.md
